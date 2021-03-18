@@ -5,7 +5,7 @@ I'm an aspiring Software Devloper and Robotics Engineer.
 
 - Currently Using and Learning
 
-| [<img src="https://cdn.svgporn.com/logos/html-5.svg" width="38">](https://html.spec.whatwg.org/) | [<img src="https://cdn.svgporn.com/logos/css-3.svg" width="38">]() | [<img src="https://cdn.svgporn.com/logos/python.svg" width="38">](https://www.python.org/) | [<img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" width="38">](https://www.arduino.cc/) | [<img src="https://github.com/clyde-kun/clyde-kun/blob/0e443786bee176210b0ce41fabd63c96ec31ee59/bash.png" width="38">](https://www.arduino.cc/)
+| [<img src="https://cdn.svgporn.com/logos/html-5.svg" width="38">](https://html.spec.whatwg.org/) | [<img src="https://cdn.svgporn.com/logos/css-3.svg" width="38">]() | [<img src="https://cdn.svgporn.com/logos/python.svg" width="38">](https://www.python.org/) | [<img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" width="38">](https://www.arduino.cc/) | [<img src="https://github.com/clyde-kun/clyde-kun/blob/0e443786bee176210b0ce41fabd63c96ec31ee59/bash.png" width="38">](https://www.gnu.org/software/bash/)
 |---|---|---|---|
 
 - Interested In Learning
