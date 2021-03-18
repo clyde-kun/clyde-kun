@@ -10,8 +10,8 @@ I'm an aspiring Software Devloper and Robotics Engineer.
 
 - Interested In Learning
 
-| [<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="38">](https://nodejs.org/en/) | [<img src="https://cdn.svgporn.com/logos/c-plusplus.svg" width="38">](https://www.cplusplus.com/) | [<img src="https://cdn.svgporn.com/logos/python.svg" width="38">](https://www.python.org/) | [<img src="https://cdn.svgporn.com/logos/lua.svg" width="38">](http://www.lua.org/) | [<img src="https://cdn.svgporn.com/logos/electron.svg" width="38">](https://www.electronjs.org/) |
-|---|---|---|---|---|---|---|
+| [<img src="https://cdn.svgporn.com/logos/javascript.svg" width="38">](https://www.javascript.com/) | [<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="38">](https://nodejs.org/en/) | [<img src="https://cdn.svgporn.com/logos/c-plusplus.svg" width="38">](https://www.cplusplus.com/) | [<img src="https://e7.pngegg.com/pngimages/724/306/png-clipart-c-logo-c-programming-language-icon-letter-c-blue-logo.png" width="38">](https://www.learn-c.org/) | [<img src="https://cdn.svgporn.com/logos/lua.svg" width="38">](http://www.lua.org/) |
+|---|---|---|---|---|
 
 ### Tools 🛠️
 
