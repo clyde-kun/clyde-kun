@@ -13,29 +13,15 @@ I'm an aspiring Software Devloper and Robotics Engineer.
 | [<img src="https://cdn.svgporn.com/logos/javascript.svg" width="38">](https://www.javascript.com/) | [<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="38">](https://nodejs.org/en/) | [<img src="https://cdn.svgporn.com/logos/c-plusplus.svg" width="38">](https://www.cplusplus.com/) | [<img src="https://e7.pngegg.com/pngimages/724/306/png-clipart-c-logo-c-programming-language-icon-letter-c-blue-logo.png" width="38">](https://www.learn-c.org/) | [<img src="https://cdn.svgporn.com/logos/lua.svg" width="38">](http://www.lua.org/) |
 |---|---|---|---|---|
 
-### Tools 🛠️
+### Accounts 📫
 
-- Currently Using and Learning
+You can find me on these accounts!
 
-| [<img src="https://cdn.svgporn.com/logos/debian.svg" width="38">](https://www.debian.org/) | [<img src="https://cdn.svgporn.com/logos/nginx.svg" width="38">](https://www.nginx.com/) | [<img src="https://cdn.svgporn.com/logos/docker-icon.svg" width="38">](https://www.docker.com/) | [<img src="https://cdn.svgporn.com/logos/mariadb-icon.svg" width="38">](https://mariadb.org/) | [<img src="https://cdn.svgporn.com/logos/ubuntu.svg" width="38">](https://ubuntu.com/) | [<img src="https://cdn.svgporn.com/logos/mysql.svg" width="38">](https://www.mysql.com/) | [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Sublime_Text_3_logo.png/150px-Sublime_Text_3_logo.png" width="38">](https://www.sublimetext.com/) | [<img src="https://cdn.svgporn.com/logos/apache.svg" width="20">](https://www.apache.org/) | [<img src="https://winscp-static-746341.c.cdn77.org/assets/images/logos/logo.png?v=5848" width="38">](https://winscp.net/eng/index.php) | [<img src="https://cdn.svgporn.com/logos/linux-tux.svg" width="38">](https://www.linux.org/) | [<img src="https://cdn.svgporn.com/logos/npm.svg" width="38">](https://www.npmjs.com/) | [<img src="https://mobaxterm.mobatek.net/img/moba/xterm_logo.png" width="38">](https://mobaxterm.mobatek.net/) |
-|---|---|---|---|---|---|---|---|---|---|---|---|
+| [<img src="https://cdn.freebiesupply.com/images/large/2x/steam-logo-transparent.png" width="38">](https://steamcommunity.com/id/driftingtoyourgirlshouse) | [<img src="https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png" width="38">](https://myanimelist.net/animelist/c1yd3) |
+|---|---|
 
-- Interested In Learning
+*If contact is needed messag me on discord **clyde#4516** or send me an email*
 
-| [<img src="https://cdn.svgporn.com/logos/git-icon.svg" width="38">](https://git-scm.com/) | [<img src="https://cdn.svgporn.com/logos/gradle.svg" width="38">](https://gradle.org/) | [<img src="https://cdn.svgporn.com/logos/intellij-idea.svg" width="38">](https://www.jetbrains.com/idea/) | [<img src="https://cdn.svgporn.com/logos/redis.svg" width="38">](https://redis.io/) | [<img src="https://cdn.svgporn.com/logos/aws.svg" width="38">](https://aws.amazon.com/) |
-|---|---|---|---|---|
-
-### Other Accounts 📫
-
-You can find and get touch with me on these accounts!
-
-| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" width="38">](https://github.com/Fallen-Networks) | [<img src="https://cdn.svgporn.com/logos/gitlab.svg" width="38">](https://gitlab.com/fallennetworks) | [<img src="https://cdn.svgporn.com/logos/discord.svg" width="38">](https://discord.gg/Rgcgpgx) | [<img src="https://static.spigotmc.org/img/spigot.png" width="38">](https://www.spigotmc.org/members/damien111.48633/) | [<img src="https://cdn.svgporn.com/logos/steam.svg" width="38">](https://steamcommunity.com/id/ripdamien/) | [<img src="https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png" width="38">](https://myanimelist.net/profile/Damien111) |
-|---|---|---|---|---|---|
-
- 
-
-## My GitHub Stats -
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Damien111&count_private=true&show_icons=true&line_height=30)
 
 <!--- 👋 Hi, I’m @clyde-kun
 - 👀 I’m interested in ...
