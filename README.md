@@ -1,4 +1,4 @@
-![Image of Banner](https://github.com/clyde-kun/images/blob/c4a2321e76ff9277bd9f08983e69d1cc8d282dfc/clyde-kun.png)
+![Image of Banner](https://github.com/clyde-kun/clyde-kun/blob/3f13e541afa5a04761eedb8c34d6579674c80608/clydekun.png)
 
 
 <!--- 👋 Hi, I’m @clyde-kun
