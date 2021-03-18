@@ -10,7 +10,7 @@ I'm an aspiring Software Devloper and Robotics Engineer.
 
 - Interested In Learning
 
-| [<img src="https://cdn.svgporn.com/logos/javascript.svg" width="38">](https://www.javascript.com/) | [<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="38">](https://nodejs.org/en/) | [<img src="https://cdn.svgporn.com/logos/c-plusplus.svg" width="38">](https://www.cplusplus.com/) | [<img src="https://e7.pngegg.com/pngimages/724/306/png-clipart-c-logo-c-programming-language-icon-letter-c-blue-logo.png" width="38">](https://www.learn-c.org/) | [<img src="https://cdn.svgporn.com/logos/lua.svg" width="38">](http://www.lua.org/) |
+| [<img src="https://cdn.svgporn.com/logos/javascript.svg" width="38">](https://www.javascript.com/) | [<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="38">](https://nodejs.org/en/) | [<img src="https://cdn.svgporn.com/logos/c-plusplus.svg" width="38">](https://www.cplusplus.com/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="38">](https://www.learn-c.org/) | [<img src="https://cdn.svgporn.com/logos/lua.svg" width="38">](http://www.lua.org/) |
 |---|---|---|---|---|
 
 ### Accounts 📫
@@ -20,7 +20,7 @@ You can find me on these accounts!
 | [<img src="https://cdn.freebiesupply.com/images/large/2x/steam-logo-transparent.png" width="38">](https://steamcommunity.com/id/driftingtoyourgirlshouse) | [<img src="https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png" width="38">](https://myanimelist.net/animelist/c1yd3) |
 |---|---|
 
-*If contact is needed messag me on discord **clyde#4516** or send me an email*
+*If contact is needed message me on discord **clyde#4516** or send me an email*
 
 
 <!--- 👋 Hi, I’m @clyde-kun
