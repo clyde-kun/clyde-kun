@@ -1,6 +1,6 @@
 ![Image of Banner](https://github.com/clyde-kun/clyde-kun/blob/3f13e541afa5a04761eedb8c34d6579674c80608/clydekun.png)
 ## Hi, I'm clyde! 👋
-I'm an aspiring Software Developer and Robotics Engineer.
+I am an aspiring Software Developer and Robotics Engineer.
 ### Programming Languages 💻
 
 - Currently Using and Learning
