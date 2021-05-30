@@ -17,7 +17,7 @@ I am an aspiring Software Developer and Robotics Engineer.
 
 You can find me on these accounts!
 
-| [<img src="https://cdn.freebiesupply.com/images/large/2x/steam-logo-transparent.png" width="38">](https://steamcommunity.com/id/driftingtoyourgirlshouse) | [<img src="https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png" width="38">](https://myanimelist.net/animelist/c1yd3) |
+| [<img src="https://cdn.freebiesupply.com/images/large/2x/steam-logo-transparent.png" width="38">](https://steamcommunity.com/id/1uh) | [<img src="https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png" width="38">](https://myanimelist.net/animelist/c1yd3) |
 |---|---|
 
 *If contact is needed message me on discord **clyde#4516***
