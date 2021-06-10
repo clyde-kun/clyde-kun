@@ -1,4 +1,4 @@
-![Image of Banner](https://github.com/clyde-kun/clyde-kun/blob/3f13e541afa5a04761eedb8c34d6579674c80608/clydekun.png)
+![Image of Banner](https://github.com/clyde-kun/clyde-kun/blob/3f13e541afa5a04761eedb8c34d6579674c80608/banner.png)
 ## Hi, I'm louis 👋
 I am an aspiring Software Developer, Robotics Engineer, and Cybersecurity Specialist!
 ### Programming Languages 💻
